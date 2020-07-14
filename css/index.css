@@ -1,0 +1,119 @@
+*{
+	font-family: Arial;
+}
+body{
+	background: url("../img/back.jpg") no-repeat;
+	width: 100%;
+	background-attachment: fixed;
+}
+
+.main-1{
+	background: url("../img/back2.png") no-repeat 70%;
+	width: 100%;
+	height: 645px;
+}
+.welcome{
+	padding: 10% 50% 0 5%;
+}
+/*.welcome{
+	padding: 20% 0 0 0;
+
+}*/
+.welcome h2{
+	border-top: 5px solid #FEF301;
+	border-bottom: 5px solid #FEF301;
+	padding: 3% 0 3% 0;
+}
+
+/*-----------------НАШИ УСЛУГИ-------------------*/
+
+.service{
+	background-color: #242424;
+	color: #949494;
+	padding-bottom: 3%
+}
+.service-item{
+	padding: 3% 5% 3% 5%;
+}
+.service-item:hover{
+	outline: 5px solid #FEF301;
+}
+.service-item:hover h1{
+	color: #FEF301;
+}
+.service h1{
+	color: white;
+}
+.service label{
+	text-align: center;
+	font-size: 7em;
+	color: #242424;
+	text-shadow: white 0 0 1px;
+	font-weight: 900;
+	padding-left: 17%;
+}
+.service p{
+	font-size: 1.5em;
+}
+
+/*-----------------ПАРТНЕРЫ-------------------*/
+
+.partners{
+	background-color: white;
+	padding: 5%
+}
+.partners h1{
+	padding: 80% 0 80% 0;
+	font-size: 3em;
+	color: white;
+	text-shadow: black 0 0 1px;	
+	border-right: 1px solid #E9E9E9;
+	font-weight: 900;
+}
+.partners-item{
+	padding: 5%;
+	justify-content: center;
+	line-height: 220px;
+}
+.partners-item img{
+	width: 100%;
+	vertical-align: middle;
+}
+.item-border{
+	border-right: 1px solid #E9E9E9;
+}
+.partners-item{
+	filter: saturate(0);
+}
+.partners-item:hover{
+	filter: saturate(1);
+}
+
+/*----------------ОПЛАТА--------------------*/
+
+.payment{
+	background-color: #242424;
+	color: #949494;
+	padding-bottom: 3%
+}
+.payment label{
+	text-align: center;
+	font-size: 7em;
+	color: #242424;
+	text-shadow: white 0 0 1px;
+	font-weight: 900;
+	padding-left: 10%;
+}
+.pay-item{
+	color:white;
+	padding-left: 60px;
+}
+.pay-item:hover{
+	color: #FEF301;
+}
+/*.rect-1:hover + .pay-item h1{
+	color: #FEF301;
+}*/
+
+
+

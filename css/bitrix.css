@@ -1,0 +1,30 @@
+.my-title{
+	padding-left: 3%;
+	background-color: #242424;
+	font-size: 8em;
+}
+.my-title label{
+	
+	color: white;
+}
+span{
+	color: #FEF301;
+}
+
+.container{
+	padding-top: 5%;
+	padding-bottom: 3%;
+}
+p{
+	font-size: 1.2em;
+}
+.small-img{
+	width: 300px;
+	float: right;
+
+}
+.big-img{
+	width: 70%;
+	margin-left: 15%;
+	padding: 2% 0 2% 0;
+}

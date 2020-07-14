@@ -1,0 +1,29 @@
+body{
+	background: url("../img/ai.gif") no-repeat;
+	width: 100%;
+	background-attachment: fixed;
+}
+.my-title{
+	padding-left: 3%;
+	/*background-color: #242424;*/
+	font-size: 8em;
+}
+.my-title label{
+	
+	color: white;
+}
+span{
+	color: #FEF301;
+}
+
+.container{
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
+p{
+	color: #949494;
+	font-size: 1.2em;
+}
+.imp{
+	color: white;
+}

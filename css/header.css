@@ -1,0 +1,31 @@
+header{
+	background-color: #242424;
+	padding: 10px 30px 10px 30px;
+	/*display: flex;*/
+}
+.logo{
+	height: 60px;
+	width: 95px;
+}
+nav{
+	float: right;
+	padding-top: 1%;
+}
+nav a{
+	color: #949494;
+	padding: 0 25px 1% 25px;
+}
+nav a:hover{
+	color: #FEF301;
+	border-bottom: 2px solid yellow;
+}
+nav{
+	/*float: right;*/
+}
+nav img{
+	width: 30px;
+}
+nav img:hover{
+	width: 30px;
+	transform: scale(1.1);
+}

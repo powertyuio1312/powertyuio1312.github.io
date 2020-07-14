@@ -1,0 +1,29 @@
+.cls-1{
+	fill:none;
+}
+.cls-1, .rect-1, .rect-2, .rect-3, .rect-4{
+	stroke: white;
+	stroke-miterlimit:10;
+	stroke-width:4px;
+}
+.rect-1, .rect-2, .rect-3, .rect-4{
+	fill: white;
+}
+.rect-1:hover, .rect-2:hover, .rect-3:hover, .rect-4:hover{
+	fill:#fff343;
+	stroke:#fff343;
+}
+.text-1, .text-2, .text-3, .text-4{
+	font-size:37px;
+	fill:#fff;
+	font-family:MicrosoftSansSerif, Microsoft Sans Serif;
+}
+/*.text-1:hover .rect-1{
+	fill:#fff;
+	stroke:#fff;
+}*/
+
+/*.q:hover > .rect-1, .text-1{
+	fill:#fff;
+	stroke:#fff;	
+}*/
